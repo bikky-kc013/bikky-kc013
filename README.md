@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikky-kc013&label=Profile%20views&color=0e75b6&style=flat" alt="bikky-kc013" /> </p>
 
-- 📝 I regularly write articles on [bkc013.com.np](bkc013.com.np)
-
 - 📫 How to reach me **bharathkc013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
