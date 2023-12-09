@@ -1,17 +1,11 @@
-<h2 align="left">Hi 🏴‍☠️💪! Bikki KC - Node.js Developer</h2>
+<h2 align="left">Hi 🏴‍☠️💪! I am Bikki KC - Node.js Developer</h2>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikky-kc013&show_icons=true&locale=en&layout=compact" alt="bikky-kc013" /></p>
 
-<div style="text-align: center; margin: 20px; border: 2px solid #4B0082; border-radius: 10px; padding: 10px; background-color: #1E1E1E;">
-  <img 
-    style="height: 150px; width: auto; border-radius: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-    alt="GitHub Stats"
-  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikky-kc013&show_icons=true&locale=en" alt="bikky-kc013" /></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikky-kc013&" alt="bikky-kc013" /></p>
 
 ###
 
@@ -32,15 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
 </div>
 
 
