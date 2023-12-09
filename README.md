@@ -1,10 +1,15 @@
-![MasterHead](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+<p align="center">
+  <img width="400" height="200" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Bikki kc</h1>
 <h3 align="center">I am a professional bug maker.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikky-kc013&label=Profile%20views&color=0e75b6&style=flat" alt="bikky-kc013" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif">
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikky-kc013" alt="bikky-kc013" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, Rust**
 
