@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="[https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif](https://media.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif)" alt="MasterHead">
+  <img width="800" height="200" src="https://media.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Bikki kc</h1>
 <h3 align="center">I am a professional bug maker.</h3>
