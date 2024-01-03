@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif">
 
 
-- 🌱 I’m currently learning **Typescript, Rust**
+- 🌱 I’m currently learning **Typescript, Microservices**
 
-- 💬 Ask me about **node.js, mongoose, java**
+- 💬 Ask me about **node.js, mySql, java**
 
 - 📫 How to reach me **bharathkc013@gmail.com**
 
