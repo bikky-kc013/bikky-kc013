@@ -22,13 +22,13 @@
 
 <hr />
 
-<h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> A little more about me...</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/> About Bikky......</h3>
 
 ```javascript
 const bikky = {
   pronouns: "He" | "Him",
   languages: ["TypeScript", "JavaScript", "Java"],
-  iamReadyToAnswer: ["backend dev", "AWS", "tech trends"],
+  iamReadyToAnswer: ["backend dev", "AWS", "tech trends", "linux"],
   technologies: {
     backEnd: {
       ts: ["Node", "Express", "NestJS"],
@@ -41,6 +41,7 @@ const bikky = {
       "MySQL",
       "PostgreSQL",
       "MongoDB",
+      "Firebase Realtime DB",
       "Redis",
     ],
     misc: ["Socket.IO", "REST APIs"],
@@ -50,5 +51,6 @@ const bikky = {
     databases: ["Relational", "NoSQL", "In-memory"],
   },
   currentFocus: "Learning microservices with NestJS and AWS",
+  wantToLearn: "Design patterns",
 };
 ```
