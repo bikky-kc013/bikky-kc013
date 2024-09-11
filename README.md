@@ -22,7 +22,7 @@
 
 <hr />
 
-<h3 align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="20" width="50"/> About Bikky......</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="20" width="50"/> About Bikky...... <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="20" width="50"/> </h3>
 
 ```javascript
 const bikky = {
