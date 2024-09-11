@@ -41,7 +41,6 @@ const bikky = {
       "MySQL",
       "PostgreSQL",
       "MongoDB",
-      "Firebase Realtime DB",
       "Redis",
     ],
     misc: ["Socket.IO", "REST APIs"],
