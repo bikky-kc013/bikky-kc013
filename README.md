@@ -1,7 +1,5 @@
 <h1 align="center">Hi 💻, I'm Bikky Kc</h1>
 <h3 align="center">They say that I am a professional bug maker. Well, I agree with them. </h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misterbikky?label=Follow)](https://twitter.com/intent/follow?screen_name=misterbikky)
@@ -10,7 +8,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bikky.me/)](https://bikky.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=bikky-kc013.bikky-kc013)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100%"> A little more about me...
 
 ```javascript
 const bikky = {
