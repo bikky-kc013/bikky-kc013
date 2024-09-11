@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
   <img src="https://img.shields.io/github/followers/bikky-kc013?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=bikky-kc013.bikky-kc013" alt="Visitor Badge">
 </p>
 
 <hr />
