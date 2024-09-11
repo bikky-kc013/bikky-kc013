@@ -1,6 +1,5 @@
 <h1 align="center">Hi 💻, I'm Bikky Kc</h1>
 <h3 align="center">They say that I am a professional bug maker. Well, I agree with them. </h3>
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misterbikky?label=Follow)](https://twitter.com/intent/follow?screen_name=misterbikky)
