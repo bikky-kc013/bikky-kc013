@@ -1,6 +1,6 @@
 <h1 align="center">Hi 💻, I'm Bikky Kc</h1>
 <h3 align="center">They say that I am a professional bug maker. Well, I agree with them. </h3>
-<img align='right' src="https://giphy.com/embed/KEYMsj2LcXzfcTP5ii" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
