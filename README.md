@@ -27,11 +27,11 @@
 ```javascript
 const bikky = {
   pronouns: "He" | "Him",
-  languages: ["TypeScript", "JavaScript", "Java"],
-  iamReadyToAnswer: ["backend dev", "AWS", "tech trends", "linux"],
+  languages: ["TypeScript", "JavaScript", "Golang"],
+  iamReadyToAnswer: ["backend", "AWS", "Nginx", "linux"],
   technologies: {
     backEnd: {
-      ts: ["Node", "Express", "NestJS"],
+      ts: ["Node", "Express", "NestJS","Gin"],
     },
     devOps: ["Docker 🐳", "CI/CD", "Nginx", "GitHub Actions"],
     cloudServices: {
@@ -41,13 +41,12 @@ const bikky = {
       "MySQL",
       "PostgreSQL",
       "MongoDB",
-      "Firebase Realtime DB",
       "Redis",
     ],
     misc: ["Socket.IO", "REST APIs"],
   },
   architecture: {
-    backEnd: ["Monolithic", "Microservices~learning"],
+    backEnd: ["Monolithic", "Microservices"],
     databases: ["Relational", "NoSQL", "In-memory"],
   },
   currentFocus: "Learning microservices with NestJS and AWS",
