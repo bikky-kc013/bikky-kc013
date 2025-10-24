@@ -27,15 +27,15 @@
 ```javascript
 const bikky = {
   pronouns: "He" | "Him",
-  languages: ["TypeScript", "JavaScript", "Golang"],
+  languages: ["TypeScript", "Golang"],
   iamReadyToAnswer: ["backend", "AWS", "Nginx", "linux"],
   technologies: {
     backEnd: {
       ts: ["Node", "Express", "NestJS","Gin"],
     },
-    devOps: ["Docker 🐳", "CI/CD", "Nginx", "GitHub Actions"],
+    devOps: ["Docker 🐳", "CI/CD", "Nginx", "GitHub Actions", "Nginx"],
     cloudServices: {
-      aws: ["EC2", "S3", "Lambda", "RDS", "DynamoDB"],
+      aws: ["EC2", "S3", "Lambda", "RDS", "DynamoDB","Minio"],
     },
     databases: [
       "MySQL",
@@ -43,13 +43,13 @@ const bikky = {
       "MongoDB",
       "Redis",
     ],
-    misc: ["Socket.IO", "REST APIs"],
+    misc: ["Socket.IO","kafka"],
   },
   architecture: {
     backEnd: ["Monolithic", "Microservices"],
     databases: ["Relational", "NoSQL", "In-memory"],
   },
-  currentFocus: "Learning microservices with NestJS and AWS",
-  wantToLearn: "Design patterns",
+  currentFocus: "Getting hands dirty on cloud services and opensource contributions",
+  wantToLearn: "Data Engineering",
 };
 ```
