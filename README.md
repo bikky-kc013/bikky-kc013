@@ -30,14 +30,22 @@
 </h3>
 
 <p align="center">
-  I am a backend developer specializing in <b>Node.js</b>, with hands-on experience using
-  <b>Express</b> and <b>NestJS</b> to build scalable and maintainable backend systems.
-  I focus on writing clean, well-structured code by applying proven design patterns
-  and best practices to ensure performance and reliability in production environments.
+  I am a backend developer with over <b>three years of professional experience</b>,
+  specializing in building <b>scalable, production-ready microservice systems</b>
+  for <b>fintech and data-intensive applications</b>.
+  I primarily work with <b>Node.js</b> using <b>NestJS</b> and <b>Express</b>,
+  following <b>Clean Architecture</b> principles and applying design patterns
+  based on system requirements.
   <br /><br />
-  With over a year of professional experience, I confidently deliver backend solutions
-  that adapt to evolving requirements while maintaining consistent productivity
-  throughout the development lifecycle.
+  I have hands-on experience with <b>Kafka</b> for data streaming and event-driven
+  architectures, <b>BullMQ</b> for background job processing and queue management,
+  and regularly build services using both <b>Node.js</b> and <b>Golang (Gin)</b>
+  within distributed microservice ecosystems.
+  <br /><br />
+  I am proficient in <b>Dockerizing applications</b>, designing and maintaining
+  <b>CI/CD pipelines</b>, and configuring <b>Nginx</b> for secure, high-performance
+  production deployments. I adapt quickly to changing requirements while maintaining
+  consistent productivity throughout the entire development lifecycle.
 </p>
 
 ```ts
