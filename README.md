@@ -126,7 +126,6 @@ echo "Backend dev who thinks in services, not scripts."
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bikky-kc013&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikky-kc013&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com/?user=bikky-kc013&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%"/>
